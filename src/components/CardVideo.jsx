@@ -35,8 +35,12 @@ const CardVideoTitulo = styled.h3`
 
 
 function CardVideo(props) {
+    function clickVideo(){
+        alert("Em breve")
+    }
     return (
-        <CardVideoContainer>
+        <CardVideoContainer onClick={clickVideo}> 
+            
 
             <CardVideoImagem
 
