@@ -1,5 +1,0 @@
-npm create vite@latest aula  
-
-TUDO COMEÇA NO APP JSX, É AQUI Q CHAMA OS COMPONENTES
-
-no jsx, importa o react
